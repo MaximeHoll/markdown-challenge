@@ -3,27 +3,41 @@
 
 *I never lose: either I win, or I learn.*
 
-![Photo de moi] (/Users/maximeh/Downloads/Photo moi.jpeg)
+![Photo](./Photo%20moi%20(1).jpeg)
 
-|Birthday:|15/08|
+|Question?|Answer!             |
+|---------|--------------------|
+|Birthday:|15/08               |
 |Favorite color:|Black and blue|
-|Favorite food:|Cheese|
-|Pineapple on pizza|[]yes [x]no|
+|Favorite food:|Cheese         |
+|Pineapple on pizza:|[]yes [x]no|
 
 ### Hobbies
 
 -Sports
+
     -Tennis
+
     -Kickboxing
+
     -Crossfit
+
 -Reading
+
     -French, English and Spanish litterature
+
     -Naturalism or realism
+
     -Used to be a fan of fantasy
+
 -Music
+
     -All around fan of a lot of things but really into techno and electronic music at the moment
+
 -Video games
+
     -Heroes of the Storm, a bit of Dota 2 and maybe LoL
+    
     -Mario Kart
 
 #### You can always count on me when..
